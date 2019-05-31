@@ -8,7 +8,7 @@ https://www.mystery-box-market.herokuapp.com/
 ---
 
 **<h2>Github</h2>**
-https://github.com/Joshua-Tu/rails_team_project
+https://github.com/Jimfarrugia/rails_team_project
 
 ---
 
