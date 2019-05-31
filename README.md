@@ -1,7 +1,7 @@
 # Mystery Box Market
 
 **<h2>Website</h2>**
-https://www.mysteryboxmarket.space/
+https://www.mystery-box-market.herokuapp.com/
 
 ---
 
